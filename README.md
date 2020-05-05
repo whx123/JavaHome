@@ -2,7 +2,7 @@
 
 ## 个人公众号
 
-![](https://user-gold-cdn.xitu.io/2019/7/28/16c381c89b127bbb?w=344&h=344&f=jpeg&s=8943)
+![image](https://user-gold-cdn.xitu.io/2019/7/28/16c381c89b127bbb?w=344&h=344&f=jpeg&s=8943)
 
 - 如果你是个爱学习的好孩子，可以关注我公众号，一起学习讨论哈~~
 

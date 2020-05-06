@@ -234,7 +234,7 @@ InnoDB 实现了标准的行级锁，包括两种：共享锁（简称 s 锁）�
 
 InnoDB存储引擎中锁的兼容性如下表：
 兼容性 | IS | IX| S | X
-- | :-: | :-: | :-: | :-:
+-----| -----|----- |----- |-----
 IS | 兼容 | 兼容 | 兼容| 不兼容| 
 IX | 兼容| 兼容 | 不兼容 | 不兼容|
 S  | 兼容|不兼容|兼容 | 不兼容|
@@ -351,12 +351,12 @@ update  weight=weight+1;  //   第四步
 4.最后，**事务1回滚（rollback），释放插入意向锁，导致事务2,3同时持有gap锁，等待insert intention锁，死锁形成**！
 
 **锁模式兼容矩阵**（横向是已持有锁，纵向是正在请求的锁）：
-兼容性 | Gap | Insert Intention| Record | Next-Key
-- | :-: | :-: | :-: | :-:
-Gap | 兼容 | 兼容 | 兼容| 兼容| 
-Insert Intention | 冲突| 兼容 | 兼容 | 冲突|
-Record  | 兼容|兼容|冲突 | 冲突|
-Next-Key  | 兼容| 兼容 | 冲突 | 冲突|
+|兼容性 | Gap | Insert Intention| Record | Next-Key|
+|-----| -----|-----| -----| -----|
+| Gap | 兼容 | 兼容 | 兼容| 兼容| 
+| Insert Intention | 冲突| 兼容 | 兼容 | 冲突|
+| Record  | 兼容|兼容|冲突 | 冲突|
+| Next-Key  | 兼容| 兼容 | 冲突 | 冲突|
 
 [这是MySql5.7的一个bug](https://bugs.mysql.com/bug.php?id=52020) 
 
@@ -387,15 +387,6 @@ gap锁跟索引有关，并且unique key 和foreign key会引起额外的index�
 - 3.SQL加锁分析
 - 4.分析死锁日志（持有什么锁，等待什么锁）
 - 5.熟悉锁模式兼容矩阵，InnoDB存储引擎中锁的兼容性矩阵。
-
-## 参考与感谢
-- [一条Insert on duplicate引发的血案](https://zhuanlan.zhihu.com/p/29349080) 
-- [读 MySQL 源码再看 INSERT 加锁流程 ](https://www.aneasystone.com/archives/2018/06/insert-locks-via-mysql-source-code.html)  
-- [解决死锁之路 - 了解常见的锁类型 ]( https://www.aneasystone.com/archives/2017/11/solving-dead-locks-two.html)
-- [MySQL InnoDB 锁——官方文档](https://segmentfault.com/a/1190000014071758) 
-- [MySQL的锁机制 - 记录锁、间隙锁、临键锁](https://zhuanlan.zhihu.com/p/48269420) 
-- [解决死锁之路 - 常见 SQL 语句的加锁分析 ](https://www.aneasystone.com/archives/2017/12/solving-dead-locks-three.html)
-- 《MySQL技术内幕》
 
 
 ## 个人公众号

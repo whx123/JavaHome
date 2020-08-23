@@ -325,12 +325,13 @@ public class Singleton {
 为了实现volatile的内存语义，Java内存模型采取以下的保守策略
 - 在每个volatile写操作的前面插入一个StoreStore屏障。
 - 在每个volatile写操作的后面插入一个StoreLoad屏障。
-- 在每个volatile读操作的前面插入一个LoadLoad屏障。
+- 在每个volatile读操作的后面插入一个LoadLoad屏障。
 - 在每个volatile读操作的后面插入一个LoadStore屏障。
 
-有些小伙伴，可能对这个还是有点疑惑，内存屏障这玩意太抽象了。我们照着代码看下吧：
+有些小伙伴，可能对这个还是有点疑惑，内存屏障这玩意太抽象了。我们照着代码看下吧（LoadLoad内存屏障也是在flag后面哈，图片有误）：
 
-![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/a3097b7467304540b6a552d897d46997~tplv-k3u1fbpfcp-zoom-1.image)
+![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/a85eff53f99f420c8139bb69b2d4f6ae~tplv-k3u1fbpfcp-zoom-1.image)
+
 内存屏障保证前面的指令先执行，所以这就保证了禁止了指令重排啦，同时内存屏障保证缓存写入内存和其他处理器缓存失效，这也就保证了可见性，哈哈~
 
 ### 7.volatile的典型场景
@@ -422,7 +423,7 @@ class Singleton{
 也是内存屏障哦，跟面试官讲下Java内存的保守策略：
 - 在每个volatile写操作的前面插入一个StoreStore屏障。
 - 在每个volatile写操作的后面插入一个StoreLoad屏障。
-- 在每个volatile读操作的前面插入一个LoadLoad屏障。
+- 在每个volatile读操作的后面插入一个LoadLoad屏障。
 - 在每个volatile读操作的后面插入一个LoadStore屏障。
 
 再讲下volatile的语义哦，重排序时不能把内存屏障后面的指令重排序到内存屏障之前的位置

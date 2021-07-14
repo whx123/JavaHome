@@ -139,6 +139,14 @@ while(itr.hasNext()) {
       }
 }
 ```
+第三种，removeIf方法
+```
+List<Integer> list = new ArrayList<>();
+list.add(9);
+list.add(0);
+list.removeIf(n->(n==0));
+System.out.println(list.toString());
+```
 
 ### 8. Java中怎么打印数组？
 数组是不能直接打印的哈，如下:

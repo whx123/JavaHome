@@ -1,0 +1,7 @@
+## 缓存
+
+- [大厂经典面试题：Redis为什么这么快？](https://mp.weixin.qq.com/s?__biz=Mzg3NzU5NTIwNg==&mid=2247490736&idx=1&sn=95377e729b27f0afefbaa5f20239fc9d&chksm=cf21c399f8564a8ff5239fbaa86d616a48086b47b3bb03c8ccc1d3cc066e41c75e16638c3fc8&token=1495321435&lang=zh_CN&scene=21#wechat_redirect)
+- [美团二面：Redis与MySQL双写一致性如何保证？](https://mp.weixin.qq.com/s?__biz=Mzg3NzU5NTIwNg==&mid=2247490243&idx=1&sn=ff11c3aab9ada3b16d7f2b57c846d567&chksm=cf21c5eaf8564cfc59e3d0d56fd02b0f5513015005f498381be4d12db462442a49aabe4159ef&token=1495321435&lang=zh_CN&scene=21#wechat_redirect)
+- [使用Redis，你必须知道的21个注意要点](https://mp.weixin.qq.com/s?__biz=Mzg3NzU5NTIwNg==&mid=2247488325&idx=1&sn=6d9bbe5bf2f2f2904755de5c786fb21b&chksm=cf21cc6cf856457a9d23b3e25ec48107a582e709f05964dfdb5ba77e9a239d8307334c485fdf&token=162724582&lang=zh_CN&scene=21#wechat_redirect)
+- [七种方案！探讨Redis分布式锁的正确使用姿势](https://mp.weixin.qq.com/s?__biz=Mzg3NzU5NTIwNg==&mid=2247488142&idx=1&sn=79a304efae7a814b6f71bbbc53810c0c&chksm=cf21cda7f85644b11ff80323defb90193bc1780b45c1c6081f00da85d665fd9eb32cc934b5cf&token=162724582&lang=zh_CN&scene=21#wechat_redirect)
+- [2W字！详解20道Redis经典面试题！（珍藏版）](https://mp.weixin.qq.com/s?__biz=Mzg3NzU5NTIwNg==&mid=2247494124&idx=1&sn=c185f7d999d5f006608d05707a8a7eea&chksm=cf2236c5f855bfd329c6e2ee27f23f8131ebcd312960190a10f1a819d67f07a21a08ad17f263&token=162724582&lang=zh_CN&scene=21#wechat_redirect)

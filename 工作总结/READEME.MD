@@ -1,13 +1,3 @@
-## 前言
-
-整理一份超级详细的Java面试题+后端基础+日常工作总结，做最暖心的男孩子，后面会慢慢完善，希望大家找到理想offer
-
-⭐ 点右上角给一个 Star，鼓励技术人输出更多干货，感谢感谢，爱了！ ！
-
-作者捡田螺的小男孩，浪迹过几家大厂，**掘金优秀创作者**，CSDN博主，知乎博主。以下内容全部出自公众号：**捡田螺的小男孩**，欢迎关注。
-
-- [田螺原创精品100篇](https://mp.weixin.qq.com/s?__biz=Mzg3NzU5NTIwNg==&amp;mid=2247497536&amp;idx=1&amp;sn=3ac9934f607d79e51457fd01f4c8a4ef&amp;chksm=cf222869f855a17fc30c744e5b7ccdeca407f3b7ddcca46bae1c93b1436ffc6fe417ccb8aef4&token=1990771297&lang=zh_CN#rd)
-
 ## 工作总结
 
 - [工作总结！日志打印的15个建议](https://mp.weixin.qq.com/s?__biz=Mzg3NzU5NTIwNg==&mid=2247494838&idx=1&sn=cdb15fd346bddf3f8c1c99f0efbd67d8&chksm=cf22339ff855ba891616c79d4f4855e228e34a9fb45088d7acbe421ad511b8d090a90f5b019f&token=162724582&lang=zh_CN&scene=21#wechat_redirect)
@@ -25,16 +15,3 @@
 - [程序员必备基础：如何安全传输存储用户密码？](https://mp.weixin.qq.com/s?__biz=Mzg3NzU5NTIwNg==&mid=2247488117&idx=1&sn=5d3d0eda0ed45f3f576e211de31ca3a9&chksm=cf21cd5cf856444af1407a94a2abf445265ca7c5f5855cfa1c223cb209e99040c7889621f231&token=162724582&lang=zh_CN&scene=21#wechat_redirect)
 - [一次代码优化实践，用了模板方法+策略+工厂方法模式](https://mp.weixin.qq.com/s?__biz=Mzg3NzU5NTIwNg==&mid=2247488061&idx=1&sn=1d9ab7954b03521ab81ecf033c0e5e50&chksm=cf21cd14f8564402b213f0ef908bbdb0e12fed4b281c5803b8e539cacb1551654194becfb7d6&token=162724582&lang=zh_CN&scene=21#wechat_redirect)
 - [保证接口数据安全的10种方案](https://mp.weixin.qq.com/s?__biz=Mzg3NzU5NTIwNg==&amp;mid=2247500285&amp;idx=1&amp;sn=7d0723f25d46e858859cfd79acb6fb9d&amp;chksm=cf221ed4f85597c2093f81baa5fdedc65817bf2d23a7951236836b0f54c2335695cbed61cd13&token=1990771297&lang=zh_CN#rd)
-
-## 福利 500+页原创面试题
-
-- [田螺原创500+页面试题](https://mp.weixin.qq.com/s?__biz=Mzg3NzU5NTIwNg==&mid=2247499943&idx=1&sn=fe869c0a97a306e42830336fe74e17a6&chksm=cf221f8ef8559698781709bfbccbb85087286e48434905fb18bec3a3ec0af7329c2a1632c230&token=1990771297&lang=zh_CN#rd)
-
-
-## 个人公众号
-
-微信搜公众号：**捡田螺的小男孩**
-
-- 小伙伴可以关注我的公众号（扫描下面二维码，还有**很多很多干货文章**），一起学习讨论哈~~
-
-![扫一扫](https://user-images.githubusercontent.com/20244922/179399354-8a9fd2a8-42ba-4303-9ce5-04891e899e6d.png)

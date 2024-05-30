@@ -25,6 +25,7 @@
 - [程序员必备基础：如何安全传输存储用户密码？](https://mp.weixin.qq.com/s?__biz=Mzg3NzU5NTIwNg==&mid=2247488117&idx=1&sn=5d3d0eda0ed45f3f576e211de31ca3a9&chksm=cf21cd5cf856444af1407a94a2abf445265ca7c5f5855cfa1c223cb209e99040c7889621f231&token=162724582&lang=zh_CN&scene=21#wechat_redirect)
 - [一次代码优化实践，用了模板方法+策略+工厂方法模式](https://mp.weixin.qq.com/s?__biz=Mzg3NzU5NTIwNg==&mid=2247488061&idx=1&sn=1d9ab7954b03521ab81ecf033c0e5e50&chksm=cf21cd14f8564402b213f0ef908bbdb0e12fed4b281c5803b8e539cacb1551654194becfb7d6&token=162724582&lang=zh_CN&scene=21#wechat_redirect)
 - [保证接口数据安全的10种方案](https://mp.weixin.qq.com/s?__biz=Mzg3NzU5NTIwNg==&amp;mid=2247500285&amp;idx=1&amp;sn=7d0723f25d46e858859cfd79acb6fb9d&amp;chksm=cf221ed4f85597c2093f81baa5fdedc65817bf2d23a7951236836b0f54c2335695cbed61cd13&token=1990771297&lang=zh_CN#rd)
+- [实战总结！18种接口优化方案的总结](https://mp.weixin.qq.com/s?__biz=MzkyMzU5Mzk1NQ==&amp;mid=2247506674&amp;idx=1&amp;sn=8b2914d9aafa334029495b029b69d0b6&amp;chksm=c1e0277ef697ae68e8c2bffe4bd7d9849be3165ef1a20286538f6a7569a6ba0879d517d55b87&token=337310304&lang=zh_CN#rd)
 
 ## 福利 500+页原创面试题
 

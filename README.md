@@ -27,6 +27,7 @@
 - [保证接口数据安全的10种方案](https://mp.weixin.qq.com/s?__biz=Mzg3NzU5NTIwNg==&amp;mid=2247500285&amp;idx=1&amp;sn=7d0723f25d46e858859cfd79acb6fb9d&amp;chksm=cf221ed4f85597c2093f81baa5fdedc65817bf2d23a7951236836b0f54c2335695cbed61cd13&token=1990771297&lang=zh_CN#rd)
 - [实战总结！18种接口优化方案的总结](https://mp.weixin.qq.com/s?__biz=MzkyMzU5Mzk1NQ==&amp;mid=2247506674&amp;idx=1&amp;sn=8b2914d9aafa334029495b029b69d0b6&amp;chksm=c1e0277ef697ae68e8c2bffe4bd7d9849be3165ef1a20286538f6a7569a6ba0879d517d55b87&token=337310304&lang=zh_CN#rd)
 - [聊聊工作中常用的Lambda表达式](https://mp.weixin.qq.com/s?__biz=MzkyMzU5Mzk1NQ==&amp;mid=2247506654&amp;idx=1&amp;sn=4835e9f486e643765d4ad3b3fc93e079&amp;chksm=c1e02752f697ae442f62fc122d7604f4b01979f6d1665df414bb499fd8ba211335ebc503c368&token=337310304&lang=zh_CN#rd)
+- [21个MySQL表设计的经验准则](https://mp.weixin.qq.com/s?__biz=MzkyMzU5Mzk1NQ==&amp;mid=2247506621&amp;idx=1&amp;sn=afca898cb461827054d706a92f9b9250&amp;chksm=c1e02731f697ae27a83e5637ee2184d1e26e5090caeaa58121d3cf5afab7d4d5832cac6d171a&token=337310304&lang=zh_CN#rd)
 
 ## 福利 500+页原创面试题
 

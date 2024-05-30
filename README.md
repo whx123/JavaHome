@@ -28,6 +28,7 @@
 - [实战总结！18种接口优化方案的总结](https://mp.weixin.qq.com/s?__biz=MzkyMzU5Mzk1NQ==&amp;mid=2247506674&amp;idx=1&amp;sn=8b2914d9aafa334029495b029b69d0b6&amp;chksm=c1e0277ef697ae68e8c2bffe4bd7d9849be3165ef1a20286538f6a7569a6ba0879d517d55b87&token=337310304&lang=zh_CN#rd)
 - [聊聊工作中常用的Lambda表达式](https://mp.weixin.qq.com/s?__biz=MzkyMzU5Mzk1NQ==&amp;mid=2247506654&amp;idx=1&amp;sn=4835e9f486e643765d4ad3b3fc93e079&amp;chksm=c1e02752f697ae442f62fc122d7604f4b01979f6d1665df414bb499fd8ba211335ebc503c368&token=337310304&lang=zh_CN#rd)
 - [21个MySQL表设计的经验准则](https://mp.weixin.qq.com/s?__biz=MzkyMzU5Mzk1NQ==&amp;mid=2247506621&amp;idx=1&amp;sn=afca898cb461827054d706a92f9b9250&amp;chksm=c1e02731f697ae27a83e5637ee2184d1e26e5090caeaa58121d3cf5afab7d4d5832cac6d171a&token=337310304&lang=zh_CN#rd)
+- [程序员必备基础：如何安全传输存储用户密码？](https://mp.weixin.qq.com/s?__biz=MzkyMzU5Mzk1NQ==&mid=2247506023&idx=1&sn=b96dde436c1c9fe4bda745ca5ca1b170&source=41#wechat_redirect)
 
 ## 福利 500+页原创面试题
 

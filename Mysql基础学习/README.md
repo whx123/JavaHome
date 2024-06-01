@@ -1,1 +1,2 @@
 - [聊聊select for update到底加了什么锁](https://mp.weixin.qq.com/s?__biz=MzkyMzU5Mzk1NQ==&amp;mid=2247506728&amp;idx=1&amp;sn=5526ee3984e971d4c3b251c2ad76d658&amp;chksm=c1e026a4f697afb28224d5ce0ecca7432879b357cd6433834c66d94c72a1935ba13e2e3e274e&token=337310304&lang=zh_CN#rd)
+- [数据库死锁排查思路分享](https://mp.weixin.qq.com/s?__biz=MzkyMzU5Mzk1NQ==&amp;mid=2247507770&amp;idx=1&amp;sn=b84b20aca057b34d511a501ff91941b5&amp;chksm=c1e022b6f697aba05248128cb82f93aed341b1cc80e6d568c7150a4ffa6775692c7c9fa423a3&token=1822874069&lang=zh_CN#rd)

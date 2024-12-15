@@ -10,6 +10,8 @@
 
 ## 工作总结
 
+- [盘点数据库主从延迟的9个原因以及解决方案](https://mp.weixin.qq.com/s/aT7YjsTrM_dhDbddr8TSjg?token=528541177&lang=zh_CN)
+- [实战项目，是如何保证缓存跟数据库数据一致性的？](https://mp.weixin.qq.com/s/UVHMeFDO4NYTnSwHZc9f1A?token=528541177&lang=zh_CN)
 - [工作总结！日志打印的15个建议](https://mp.weixin.qq.com/s?__biz=Mzg3NzU5NTIwNg==&mid=2247494838&idx=1&sn=cdb15fd346bddf3f8c1c99f0efbd67d8&chksm=cf22339ff855ba891616c79d4f4855e228e34a9fb45088d7acbe421ad511b8d090a90f5b019f&token=162724582&lang=zh_CN&scene=21#wechat_redirect)
 - [25种代码坏味道总结+优化示例](https://mp.weixin.qq.com/s?__biz=Mzg3NzU5NTIwNg==&mid=2247490148&idx=1&sn=00a181bf74313f751b3ea15ebc303545&chksm=cf21c54df8564c5bc5b4600fce46619f175f7ae557956f449629c470a08e20580feef4ea8d53&token=162724582&lang=zh_CN&scene=21#wechat_redirect)
 - [聊聊日常开发中，如何减少bug呢？](https://mp.weixin.qq.com/s?__biz=Mzg3NzU5NTIwNg==&mid=2247490662&idx=1&sn=d38a090611af7f64ee3c6a31331d5228&chksm=cf21c34ff8564a59e505e6edf3065a0fc506c6d2c96f492c8d8873cd46dedbe0704e43cb9c2e&token=1990771297&lang=zh_CN#rd)
